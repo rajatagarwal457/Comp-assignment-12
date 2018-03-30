@@ -173,6 +173,7 @@ void highschool::InpMarks()
 
 }
 
+
 void highschool::DispReportCard()
 {
     student::DispInfo();
