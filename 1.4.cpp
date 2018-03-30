@@ -205,5 +205,6 @@ int main()
 			case 7:exit(0);
 		}
 	}
+	return 0;
 
 }
